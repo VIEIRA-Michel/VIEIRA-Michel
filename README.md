@@ -1,6 +1,6 @@
 ## Welcome to my github 👋
 
-- 🔭 I’m currently working on [space-tourism](https://github.com/VIEIRA-Michel/space-tourism)
+- 🔭 I’m currently working on [supaKanban](https://github.com/VIEIRA-Michel/supaKanban)
 
 - 🌱 I’m currently learning **Tailwind CSS**
 
