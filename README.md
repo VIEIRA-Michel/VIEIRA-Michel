@@ -1,8 +1,8 @@
 ## Welcome to my github 👋
 
-- 🔭 I’m currently working on [supaKanban](https://github.com/VIEIRA-Michel/supaKanban)
+- 🔭 I’m currently working on [cleanMaster](https://github.com/VIEIRA-Michel/supaKanban)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [michelvieira.fr](https://michelvieira.fr)
 
