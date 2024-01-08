@@ -1,6 +1,6 @@
 ## Welcome to my github 👋
 
-- 🔭 I’m currently working on [cleanMaster](https://github.com/VIEIRA-Michel/supaKanban)
+- 🔭 I’m currently working on [cleanMaster](https://github.com/VIEIRA-Michel/cleanMaster)
 
 - 🌱 I’m currently learning **TailwindCSS**
 
